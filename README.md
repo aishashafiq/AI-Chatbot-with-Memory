@@ -29,9 +29,7 @@ The project was built incrementally to reinforce core software engineering conce
 
 ## 🖥️ Screenshots
 
-*(Add a screenshot of the running chat window here, e.g. `![Chat Window](screenshots/chat-window.png)`)*
-
----
+![Chat Window](screenshots/chat-window.png)
 
 ## 🛠️ Tech Stack
 
