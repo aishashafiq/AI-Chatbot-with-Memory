@@ -81,7 +81,7 @@ AIChatBot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/AIChatBot.git
+   git clone https://github.com/aishashafiq/AI-Chatbot-with-Memory.git
    cd AIChatBot
    ```
 
@@ -144,12 +144,6 @@ This client-side history management is what makes the bot feel like it "remember
 - [ ] Support multiple conversation tabs/sessions
 - [ ] Add unit tests for `ChatBot`'s JSON building and parsing logic
 - [ ] Package as a standalone executable (`.jar` or `.exe`) for easier distribution
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
